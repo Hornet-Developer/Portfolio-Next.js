@@ -2,19 +2,9 @@ import { FiPhone, FiMapPin, FiMail } from 'react-icons/fi';
 
 const contacts = [
 	{
-		id: 1,
-		name: 'Your Address, Your City, Your Country',
-		icon: <FiMapPin />,
-	},
-	{
 		id: 2,
-		name: 'email@domain.com',
+		name: 'wizard.man0308@gmail.com',
 		icon: <FiMail />,
-	},
-	{
-		id: 3,
-		name: '555 8888 888',
-		icon: <FiPhone />,
 	},
 ];
 

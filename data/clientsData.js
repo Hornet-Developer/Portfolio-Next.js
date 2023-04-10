@@ -10,47 +10,47 @@ import SamsungImage from '../public/images/brands/samsung_gray.png';
 import CanonImage from '../public/images/brands/canon_gray.png';
 import PumaImage from '../public/images/brands/puma_gray.png';
 
-export const clientsHeading = 'Some of the brands I worked with';
+export const clientsHeading = '';
 
 export const clientsData = [
-	{
-		id: uuidv4(),
-		title: 'Amazon',
-		img: AmazonImage,
-	},
-	{
-		id: uuidv4(),
-		title: 'Sony',
-		img: SonyImage,
-	},
-	{
-		id: uuidv4(),
-		title: 'Adidas',
-		img: AdidasImage,
-	},
-	{
-		id: uuidv4(),
-		title: 'FILA',
-		img: FilaImage,
-	},
-	{
-		id: uuidv4(),
-		title: 'NB',
-		img: NBImage,
-	},
-	{
-		id: uuidv4(),
-		title: 'SAMSUNG',
-		img: SamsungImage,
-	},
-	{
-		id: uuidv4(),
-		title: 'CANON',
-		img: CanonImage,
-	},
-	{
-		id: uuidv4(),
-		title: 'PUMA',
-		img: PumaImage,
-	},
+	// {
+	// 	id: uuidv4(),
+	// 	title: 'Amazon',
+	// 	img: AmazonImage,
+	// },
+	// {
+	// 	id: uuidv4(),
+	// 	title: 'Sony',
+	// 	img: SonyImage,
+	// },
+	// {
+	// 	id: uuidv4(),
+	// 	title: 'Adidas',
+	// 	img: AdidasImage,
+	// },
+	// {
+	// 	id: uuidv4(),
+	// 	title: 'FILA',
+	// 	img: FilaImage,
+	// },
+	// {
+	// 	id: uuidv4(),
+	// 	title: 'NB',
+	// 	img: NBImage,
+	// },
+	// {
+	// 	id: uuidv4(),
+	// 	title: 'SAMSUNG',
+	// 	img: SamsungImage,
+	// },
+	// {
+	// 	id: uuidv4(),
+	// 	title: 'CANON',
+	// 	img: CanonImage,
+	// },
+	// {
+	// 	id: uuidv4(),
+	// 	title: 'PUMA',
+	// 	img: PumaImage,
+	// },
 ];
